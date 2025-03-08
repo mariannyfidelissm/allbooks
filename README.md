@@ -33,6 +33,14 @@ Com os seguintes dados:
     "complemento": "Vila Mariana",
     "cep": "04101-300"
 }
+{
+    "nome": "marianny fidelis",
+    "email": "marianny.fidelis@ifce.edu.br",
+    "senha": "123456",
+    "endereco": "Rua XXXX, 3185",
+    "complemento": "Vila Mossoró",
+    "cep": "54321-333"
+}
 ```
 
 Repare que o e-mail é um campo único e usuários com e-mails duplicados não serão persistidos.
